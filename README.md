@@ -5,80 +5,66 @@
 </h3>
 
 <p align="center">
-  Building real-world AI applications from data and models to APIs, deployment and monitoring.
+  Building practical AI applications across machine learning, generative AI,
+  computer vision and backend engineering.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/adem-moussi">
-    <img src="https://img.shields.io/badge/LinkedIn-Adem%20Moussi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **Junior AI Developer** focused on building production-oriented applications across:
+I'm a Junior AI Developer focused on building software that connects
+data, machine learning models and real applications.
 
-- 🐍 Python & Software Engineering
-- 📊 Data Analysis & Data Pipelines
-- 🤖 Machine Learning
-- 🧠 Generative AI, LLMs & RAG
-- ⚡ Backend APIs with FastAPI
-- ☁️ Cloud & Deployment
+My work sits mainly at the intersection of:
 
-I enjoy turning ideas and AI/ML concepts into **clean, tested, deployable and maintainable software**.
+- Python & software engineering
+- Data analysis & machine learning
+- Generative AI & LLM applications
+- Computer vision
+- Backend APIs & deployment
 
-My engineering approach:
-
-> **Understand → Build → Test → Deploy → Monitor → Improve**
-
----
-
-## 🚀 What I Build
-
-- End-to-end AI applications
-- Machine Learning APIs and prediction services
-- RAG-based AI assistants
-- Data processing and ML pipelines
-- Backend services for AI applications
-- Cloud-deployed AI systems
+I care about understanding the problem, building the system, testing it,
+and making it usable outside a notebook.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-### Programming & Backend
+### Languages & Core
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" height="42" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
 
 ### Data & Machine Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
 </p>
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-76B7B2?style=flat-square" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
-### Generative AI
+### GenAI
 
-<p>
-  <img src="https://img.shields.io/badge/LLM%20APIs-111827?style=flat-square&logo=openai&logoColor=white" alt="LLM APIs"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM%20Applications-111827?style=flat-square" alt="LLM Applications"/>
   <img src="https://img.shields.io/badge/RAG-6B46C1?style=flat-square" alt="RAG"/>
   <img src="https://img.shields.io/badge/Embeddings-2563EB?style=flat-square" alt="Embeddings"/>
   <img src="https://img.shields.io/badge/Vector%20Search-059669?style=flat-square" alt="Vector Search"/>
@@ -86,89 +72,123 @@ My engineering approach:
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-### DevOps & Cloud
+### Backend, Databases & Cloud
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" height="42" alt="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="42" alt="AWS"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/>
 </p>
 
 ---
 
-## 🏗️ Engineering Practices
+## Selected Projects
 
-- Clean Code & modular architecture
-- Unit & integration testing with `pytest`
-- Type hints and code quality tools
-- REST API design
-- Dockerized applications
-- CI/CD with GitHub Actions
-- Git workflows, branches and pull requests
-- Logging, monitoring and debugging
-- Reproducible ML pipelines
-- Secure configuration and environment management
+### Brain Tumor Detection & MRI Analysis — PFE
+
+A web-based medical AI application developed during my final-year project.
+
+The system analyzes brain MRI images to support preliminary tumor assessment,
+combining image classification and tumor detection with an application layer.
+
+**Highlights**
+- ResNet50-based MRI classification
+- Four-class classification: glioma, meningioma, pituitary tumor and no tumor
+- Roboflow 3.0 for tumor object detection
+- Visual results with bounding boxes and prediction heatmaps
+- Automated medical report generation
+- Report saving and printing
+- Authentication and user management
+- Patient / doctor interaction and medical follow-up
+
+**Stack:** Python • TensorFlow • ResNet50 • Roboflow • React.js • Flask • Express.js • Firebase • JavaScript
 
 ---
 
-## 📌 Featured Projects
+### Road Damage AI
 
-### 🛣️ Road Damage AI
-Computer vision system for detecting road defects using deep learning.
+Computer vision project focused on automated road-defect detection.
 
-**Focus:** Computer Vision • PyTorch • Object Detection • AI Application
+The project explores the use of deep learning to identify road damage such as
+potholes and cracks and turn visual inspection into an automated AI workflow.
 
-### 🤖 ML Prediction API
-End-to-end machine learning pipeline with model tracking and API serving.
+**Focus:** Computer Vision • Deep Learning • Object Detection • Python
 
-**Focus:** Scikit-learn • MLflow • FastAPI • Docker
+---
 
-### 📚 RAG AI Assistant
-Document-based AI assistant capable of retrieving relevant information and generating grounded responses.
+### ML Prediction API
+
+An end-to-end machine learning project built around a reproducible prediction
+pipeline rather than a notebook-only workflow.
+
+**Focus:** Scikit-learn • Feature Engineering • MLflow • FastAPI • Docker
+
+---
+
+### RAG Knowledge Assistant
+
+A document-based AI assistant designed to retrieve relevant information from
+a knowledge base and generate grounded answers.
 
 **Focus:** LLMs • RAG • Embeddings • Vector Search • FastAPI
 
-### ☁️ End-to-End AI Platform
-AI application combining backend services, data/ML components, CI/CD and cloud deployment.
+---
 
-**Focus:** Python • FastAPI • Docker • PostgreSQL • AWS • GitHub Actions
+### Data Analytics Project
+
+A complete data analysis workflow built from raw data to actionable insights,
+covering cleaning, transformation, exploratory analysis and visualization.
+
+**Focus:** Python • Pandas • NumPy • SQL • Data Visualization
 
 ---
 
-## 📊 GitHub Stats
+### Pet Health Platform — In Development
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=moussi-adem&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moussi-adem&layout=compact&hide_border=true"
-    alt="Top Languages"
-    height="165"
-  />
-</p>
+A mobile intelligent platform focused on centralizing pet health information
+and integrating AI-assisted features.
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=moussi-adem&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+The planned system covers pet profiles, medical records, reminders,
+document management, AI-assisted document and image analysis, and a
+conversational assistant.
+
+**Current status:** In development
+
+**Planned stack:** Flutter / React Native • Node.js / Express or NestJS •
+PostgreSQL / Firestore • AI APIs • OCR services
 
 ---
 
-## 📫 Connect With Me
+## Engineering
+
+I aim to build software that is:
+
+- Clear and maintainable
+- Tested before being shipped
+- Easy to run and deploy
+- Structured around real application requirements
+- Documented well enough for another developer to understand
+
+My usual workflow is:
+
+**Understand → Build → Debug → Test → Deploy → Improve**
+
+---
+
+## Areas of Interest
+
+AI Engineering • Machine Learning • Generative AI • Computer Vision •
+Python Backend • Data • MLOps • AI Applications
+
+---
+
+## Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/adem-moussi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/adem-moussi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building, learning, shipping.</i>
 </p>
